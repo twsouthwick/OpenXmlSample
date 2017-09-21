@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EF68E437-258F-47DE-8441-5A7D9816FC30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{32D7110F-D86A-4F02-A5BD-B1E4DA13C504}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet.config = NuGet.config
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenXml", "src\OpenXml\OpenXml.csproj", "{AEB22098-C9B2-45A4-B227-4F179C40AA5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Debug|x64.Build.0 = Debug|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Debug|x86.Build.0 = Debug|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Release|x64.ActiveCfg = Release|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Release|x64.Build.0 = Release|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Release|x86.ActiveCfg = Release|Any CPU
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AEB22098-C9B2-45A4-B227-4F179C40AA5F} = {EF68E437-258F-47DE-8441-5A7D9816FC30}
+	EndGlobalSection
+EndGlobal

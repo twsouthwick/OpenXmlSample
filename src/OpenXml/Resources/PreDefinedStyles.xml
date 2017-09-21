@@ -1,0 +1,60 @@
+﻿<x:fonts>
+  <x:font>
+    <x:sz val="11" />
+    <x:color theme="1" />
+    <x:name val="Calibri" />
+    <x:family val="2" />
+    <x:scheme val="minor" />
+  </x:font>
+  <x:font>
+    <x:b />
+    <x:sz val="11" />
+    <x:color theme="1" />
+    <x:name val="Calibri" />
+    <x:family val="2" />
+    <x:scheme val="minor" />
+  </x:font>
+</x:fonts>
+<x:fills>
+  <x:fill>
+    <x:patternFill patternType="none" />
+  </x:fill>
+  <x:fill>
+    <x:patternFill patternType="gray125" />
+  </x:fill>
+  <x:fill>
+    <x:patternFill patternType="solid">
+      <x:fgColor theme="4" tint="0.59999389629810485" />
+      <x:bgColor indexed="64" />
+    </x:patternFill>
+  </x:fill>
+</x:fills>
+<x:borders>
+  <x:border>
+    <x:left />
+    <x:right />
+    <x:top />
+    <x:bottom />
+    <x:diagonal />
+  </x:border>
+</x:borders>
+<x:cellStyleXfs>
+  <x:xf numFmtId="0" fontId="0" fillId="0" borderId="0" />
+</x:cellStyleXfs>
+<x:cellXfs>
+  <x:xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0" applyFont="0" applyFill="0" applyAlignment="0">
+    <x:alignment />
+  </x:xf>
+  <x:xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0" applyFont="0" applyFill="0" applyAlignment="1">
+    <x:alignment horizontal="center" />
+  </x:xf>
+  <x:xf numFmtId="0" fontId="1" fillId="2" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="0">
+    <x:alignment />
+  </x:xf>
+  <x:xf numFmtId="0" fontId="1" fillId="2" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1">
+    <x:alignment horizontal="center" />
+  </x:xf>
+</x:cellXfs>
+<x:cellStyles>
+  <x:cellStyle name="Normal" xfId="0" builtinId="0" />
+</x:cellStyles>
